@@ -1,4 +1,4 @@
-# 🩺 Indian Liver Health Prediction using Machine Learning
+## 🩺 Indian Liver Health Prediction using Machine Learning
 
 ## 📌 Overview
 This project develops a Machine Learning model to predict liver disease risk among Indian patients using clinical and biochemical parameters to support early diagnosis and preventive care.
